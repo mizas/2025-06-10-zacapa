@@ -280,7 +280,7 @@ Display the contact email address set in the configuration file.
 </p>
 
 {% comment %}
-{% endcomment %}
+
 WHO CAN ATTEND?
 
 If you would like to specify who can attend the workshop,
@@ -294,7 +294,7 @@ Edit the text to match who can attend the workshop. For instance:
 - This workshop is open to the public.
 - If you are interested in attending this workshop, contact me@example.com
   for more information
-
+{% endcomment %}
 
 
 <p id="who-can-attend">
