@@ -299,7 +299,7 @@ Edit the text to match who can attend the workshop. For instance:
 
 <p id="who-can-attend">
     <strong>Who can attend?:</strong>
-    This workshop is open to scientist ladies from Consejo Nacional de Áreas Protegidas and Centro Universitario de Zacapa. You don't need to have any previous knowledge of the tools that will be presented at the workshop. 
+    This workshop is open to women scientist from Consejo Nacional de Áreas Protegidas and Centro Universitario de Zacapa. You don't need to have any previous knowledge of the tools that will be presented at the workshop. 
 </p>
 
 
